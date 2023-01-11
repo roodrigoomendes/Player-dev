@@ -15,7 +15,7 @@ export default function TopBar(){
 
             <ContainerCenter>
                 
-                <Title>Playlist</Title>
+                <Title>ROODRIGO.DEV</Title>
                 
                 <SubTitle>Música</SubTitle>
                 
@@ -40,7 +40,7 @@ flex-direction: row;
 `
 
 const Title = styled.Text`
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     color: white;
 `

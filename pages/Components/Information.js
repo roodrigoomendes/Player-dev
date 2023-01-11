@@ -7,8 +7,8 @@ import  styled  from 'styled-components/native';
 export default function Information(){
     return(
         <Container>
-            <Title>Arctic Monkeys</Title>
-            <SubTitle>Arctic Monkeys</SubTitle>
+            <Title>lofi hip hop radio</Title>
+            <SubTitle>beats to relax/study to</SubTitle>
         </Container>
     )
 }

@@ -20,6 +20,7 @@ export default function ControlMusic(){
                     maximumTrackTintColor="#777777"
                     minimumValue={0}
                     maximumValue={100}
+                    value={85}
                     />
 
                     
@@ -28,10 +29,9 @@ export default function ControlMusic(){
 
 
                 <CorrentTime>
-                    00:01
-                </CorrentTime>
+                    03:20                </CorrentTime>
                 <TotalTime>
-                    59:00
+                    00:12
                 </TotalTime>
             </ControlSlide>
 

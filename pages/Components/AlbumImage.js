@@ -10,7 +10,7 @@ export default function AlbumImage(){
 
             <ImageCapa 
             resizeMode="contain"
-            source={require('../../assets/album.png')}
+            source={require('../../assets/album.jpg')}
             />
 
         </Container>

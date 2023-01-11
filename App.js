@@ -23,7 +23,7 @@ export default function App() {
 
 
 const Container = styled.View`
-background-color: black;
+
 flex: 1;
 background-color: #2A2141;
 
